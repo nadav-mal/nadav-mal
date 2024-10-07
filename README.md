@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadav</h1>
 <h3 align="center">A passionate developer from Israel</h3>
-
+<a href = "https://github.com/NadavmExl">Currently working only from this github account!</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadav-malul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadav-malul/" height="30" width="40" /></a>
